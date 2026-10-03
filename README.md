@@ -1,5 +1,3 @@
-# Объектно-ориентированные CASE-технологии
+# 2025/2026 Объектно-ориентированные CASE-технологии (очная)
 
-Object-Oriented CASE Technologies
-
-[OOCASET-2025 — описание курса и материалы](COURSE.md).
+## Object-Oriented CASE Technologies
